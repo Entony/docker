@@ -269,3 +269,7 @@ Docker выбрал файл compose.yaml, т.к. его название име
 Делаем как предлагает Docker для очистки:
 
 ![alt text](image-31.png)
+
+Остановка одной командой:
+
+![alt text](image-32.png)
